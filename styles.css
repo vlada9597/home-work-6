@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+    height: 600px;
+    box-sizing: border-box;
+}
+
+tr {
+    border: 4px solid black;
+  }
+  
+  td {
+    border: 4px solid black;
+    width: 400px;
+  }
+
+  .yellow{
+    background: yellow;
+  }
+
+.red{
+    background: red;
+}
+
+.black{
+    background: black;
+}
+
+.blue{
+    background: blue;
+}
